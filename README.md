@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Gandharv84/leetcode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Gandharv84/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gandharv84/leetcode/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/Gandharv84/leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Gandharv84/leetcode/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Gandharv84/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
