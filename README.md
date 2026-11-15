@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gandharv84/leetcode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Gandharv84/leetcode/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gandharv84/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Gandharv84/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Gandharv84/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Gandharv84/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
