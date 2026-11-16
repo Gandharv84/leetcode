@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Gandharv84/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Gandharv84/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Gandharv84/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gandharv84/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -95,5 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Gandharv84/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Gandharv84/leetcode/tree/master/0704-binary-search) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Gandharv84/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
