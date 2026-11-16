@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Gandharv84/leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Gandharv84/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/Gandharv84/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Gandharv84/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gandharv84/leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Gandharv84/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Gandharv84/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
