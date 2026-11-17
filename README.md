@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gandharv84/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Gandharv84/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Gandharv84/leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Gandharv84/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Gandharv84/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Gandharv84/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gandharv84/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Gandharv84/leetcode/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/Gandharv84/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gandharv84/leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Gandharv84/leetcode/tree/master/0064-minimum-path-sum) |
 ## Queue
 |  |
 | ------- |
